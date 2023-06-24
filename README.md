@@ -1,4 +1,4 @@
-Using `rails_performance` gem to see the performance of our application
+Using [rails_performance](https://github.com/igorkasyanchuk/rails_performance) gem to see the performance of our application
 
 ### Following commands were run to create this application
 
